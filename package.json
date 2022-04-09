@@ -13,7 +13,7 @@
     "update-tsu": "node scripts/updateTsu.js"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-stringify": "^0.2.1",
     "vue": "^2.6.10",
     "vue-router": "^3.0.4",
